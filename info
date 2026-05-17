@@ -1,0 +1,260 @@
+{
+  "uuid": "260940d84f22623c850e395d0fb34495",
+  "path": "Offline/LinefollowerAmateur",
+  "name": "LinefollowerAmateur",
+  "content": "",
+  "created_at": "2025-04-01 17:59:38",
+  "updated_at": "2026-05-17 02:45:45",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "550b898b0e08de250a8083f8fb262469",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "711f7def10a349bb956f5a2b1c61adb2": 1,
+        "b7adf400643b4936be8b786704d0e70f": 1,
+        "eab07a6df93c4f97b1ba4d34913fbfe9": 3,
+        "8ff340ec18954025b5bd53a58b612317": 1,
+        "1ad2c87ac3a840209272375e741d2a11": 1,
+        "7248bfce8d09403d857b5aa62396552e": 2,
+        "826564f851584d97a6b1987d176c7e38": 1,
+        "a9e77cf4e33e46b59bad0a935fc67140": 1,
+        "0642e9df5f394e9d8eb1cce9c39bc746": 1,
+        "31a18eed6d9a4aa884f128fe8cdd83fc": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HEADER 1X4P COPY",
+          1,
+          "HEADER - HEADER-FEMALE-2.54_1X4",
+          "ARRANCADOR1",
+          {
+            "Contributor": "trananhkha2406",
+            "Supplier Part": "",
+            "Supplier": "Sparkfun",
+            "spiceSymbolName": "HEADER 1X4P COPY",
+            "Manufacturer Part": "",
+            "puuid": "498e3e97e7d44dc197fd5d5b817324af",
+            "uuid": "8ff340ec18954025b5bd53a58b612317"
+          }
+        ],
+        [
+          "CONNECTOR 2 PINS",
+          3,
+          "CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X11_P_2.54MM",
+          "M1,M2,VCC1",
+          {
+            "Supplier": "",
+            "Manufacturer": "BOOMELE",
+            "Manufacturer Part": "Female headerHDR1X8-2.54",
+            "Supplier Part": "C27438",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "papisdieng22",
+            "spiceSymbolName": "HEADER PAD 2X",
+            "puuid": "afdbe893c2fc49bdb4fbc325f6432ef4",
+            "uuid": "eab07a6df93c4f97b1ba4d34913fbfe9"
+          }
+        ],
+        [
+          "ARDUINO_NANO",
+          1,
+          "COMM-TH_ARDUINO_NANO",
+          "NANO1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900017879",
+            "Manufacturer": "null",
+            "Manufacturer Part": "ARDUINO_NANO",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "lcsc",
+            "spiceSymbolName": "ARDUINO_NANO",
+            "puuid": "ff6e2030776d4574a7594ce501bb86c5",
+            "uuid": "b7adf400643b4936be8b786704d0e70f"
+          }
+        ],
+        [
+          "TB6612FNG",
+          1,
+          "TB6612FNG",
+          "PUENTE-H1",
+          {
+            "Contributor": "3D Mr.",
+            "spiceSymbolName": "TB6612FNG",
+            "Manufacturer Part": "",
+            "puuid": "82f947e1502a4c1bace3b123b384f88b",
+            "uuid": "826564f851584d97a6b1987d176c7e38"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "PKG-0.25W RESISTOR",
+          "R1",
+          {
+            "Power": "1/4W",
+            "Value": "10k",
+            "Tolerance": "±5%",
+            "Supplier Part": "9339116",
+            "Supplier": "Element14",
+            "Manufacturer": "MULTICOMP",
+            "Manufacturer Part": "RESISTOR_ALONG",
+            "Link": "http://www.farnell.com/datasheets/1716725.pdf?_ga=2.130313612.2023696496.1506695686-238689616.1505921947&_gac=1.45287312.1506011718.EAIaIQobChMI57GX6tq21gIVTzobCh2WXgT2EAAYASAAEgKn9_D_BwE",
+            "Contributor": "Matheus Alecrim",
+            "spiceSymbolName": "10k",
+            "puuid": "6f893d0b4db2491487f84c1749e6aae9",
+            "uuid": "31a18eed6d9a4aa884f128fe8cdd83fc"
+          }
+        ],
+        [
+          "header10x1",
+          1,
+          "HEADER10X1",
+          "SOPORTE_PILA1",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "elfred",
+            "spiceSymbolName": "header10x1",
+            "puuid": "e964fbb6efb94b4d933b0960ff9c8703",
+            "uuid": "711f7def10a349bb956f5a2b1c61adb2"
+          }
+        ],
+        [
+          "SwitchCambio",
+          1,
+          "SWITCH-SPST",
+          "SWITCHCAMBIO1",
+          {
+            "sourceId": "ceKgMGAuL",
+            "timeStamp": "1459755659",
+            "Contributor": "Sascha Dahten",
+            "spiceSymbolName": "SWITCH-SPST",
+            "Manufacturer Part": "",
+            "puuid": "baf990df10a344f1a83ec3b7690aa7e4",
+            "uuid": "7248bfce8d09403d857b5aa62396552e"
+          }
+        ],
+        [
+          "SWITCH-SPST",
+          1,
+          "SWITCH-SPST",
+          "SWITCHON1",
+          {
+            "sourceId": "ceKgMGAuL",
+            "timeStamp": "1459755659",
+            "Contributor": "Sascha Dahten",
+            "spiceSymbolName": "SWITCH-SPST",
+            "Manufacturer Part": "",
+            "puuid": "baf990df10a344f1a83ec3b7690aa7e4",
+            "uuid": "7248bfce8d09403d857b5aa62396552e"
+          }
+        ],
+        [
+          "BTN",
+          1,
+          "BTN",
+          "U1",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "clanganke",
+            "spiceSymbolName": "BTN",
+            "puuid": "090aa4b8c96a4f90bbce0f457f2bad74",
+            "uuid": "0642e9df5f394e9d8eb1cce9c39bc746"
+          }
+        ],
+        [
+          "11PINS",
+          1,
+          "11PINS",
+          "U2",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "Chinz",
+            "spiceSymbolName": "11PINS",
+            "puuid": "4715fc5bcc434b64b967caa5e4c0cdf3",
+            "uuid": "a9e77cf4e33e46b59bad0a935fc67140"
+          }
+        ],
+        [
+          "Regulador",
+          1,
+          "REGULADOR",
+          "U3",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "miguelcrego",
+            "spiceSymbolName": "Regulador",
+            "puuid": "cf3f73f03be14c2d9584f14ee003d8f1",
+            "uuid": "1ad2c87ac3a840209272375e741d2a11"
+          }
+        ]
+      ],
+      "updateTime": 1743854203,
+      "createTime": 1743551980,
+      "histories": [],
+      "created_at": "2025-04-01 17:59:40",
+      "updated_at": "2025-04-05 05:56:43"
+    },
+    {
+      "uuid": "645f029b9f1bf1d57a9c4ef97e81e553",
+      "puuid": "260940d84f22623c850e395d0fb34495",
+      "title": "PCB_LinefollowerAmateur",
+      "filename": "PCB_LinefollowerAmateur.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "97f406a84a5f4b73909db940484bafcb": 2,
+        "947d02c344524f088ca67970b3541d0f": 1,
+        "498e3e97e7d44dc197fd5d5b817324af": 1,
+        "afdbe893c2fc49bdb4fbc325f6432ef4": 3,
+        "ff6e2030776d4574a7594ce501bb86c5": 1,
+        "82f947e1502a4c1bace3b123b384f88b": 1,
+        "6f893d0b4db2491487f84c1749e6aae9": 1,
+        "e964fbb6efb94b4d933b0960ff9c8703": 1,
+        "baf990df10a344f1a83ec3b7690aa7e4": 2,
+        "090aa4b8c96a4f90bbce0f457f2bad74": 1,
+        "4715fc5bcc434b64b967caa5e4c0cdf3": 1,
+        "cf3f73f03be14c2d9584f14ee003d8f1": 1
+      },
+      "BOM": [],
+      "updateTime": 1779003945,
+      "createTime": 1743857720,
+      "histories": [],
+      "created_at": "2025-04-05 06:55:20",
+      "updated_at": "2026-05-17 02:45:45"
+    }
+  ],
+  "sort": [],
+  "title": "LinefollowerAmateur",
+  "foldername": "LinefollowerAmateur",
+  "schfilename": "LinefollowerAmateur.json",
+  "schfilemtime": 1743854203307
+}
